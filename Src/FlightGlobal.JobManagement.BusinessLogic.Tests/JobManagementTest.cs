@@ -24,5 +24,10 @@ namespace Flightglobal.JobManagement.BusinessLogic.Tests
 		{
 			Assert.AreEqual("harsha","harsha");
 		}
+		[TestMethod]
+		public void TestMethod4()
+		{
+			Assert.AreEqual("a", "a");
+		}
 	}
 }
